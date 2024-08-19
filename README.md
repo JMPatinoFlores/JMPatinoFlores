@@ -45,6 +45,6 @@ Y claro, no podría faltar HTML y CSS.
 
 **¡No dudes en contactarme!**  
 
-[Linkedin](www.linkedin.com/in/jessica-patino-flores)  
+Linkedin: www.linkedin.com/in/jessica-patino-flores  
 Correo electrónico: jessi_flo@live.com.mx
 

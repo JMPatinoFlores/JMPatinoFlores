@@ -24,14 +24,18 @@ Actualmente trabajo en proyectos para reforzar mis conocimientos y siempre busco
 Quiero poder colaborar con un equipo en el que pueda compartir mi experiencia, mi creatividad y puedo aportar un montón de soluciones y trabajo altamente mantenible ya que me enfoco en las buenas prácticas y siempre tener un SEO optimizado.
 
 **En el bootcamp de Henry aprendí diferentes tecnologías, las cuales son:**  
--JavaScript
--React.js
--Node.js
--Express.js
--Next.js
--PostgreSQL
--MongoDB
--Git  
+* JavaScript
+* TypeScript
+* HTML y CSS
+* Bootstrap
+* React.js
+* Redux
+* Node.js
+* Express.js
+* Next.js
+* PostgreSQL
+* MongoDB
+* Git  
 
 Y claro, no podría faltar HTML y CSS.
 
